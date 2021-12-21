@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dccfdf31.chunk.css",
+    "main.js": "/static/js/main.c147a8ca.chunk.js",
+    "main.js.map": "/static/js/main.c147a8ca.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b9132764.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b9132764.js.map",
+    "static/js/2.ccd385af.chunk.js": "/static/js/2.ccd385af.chunk.js",
+    "static/js/2.ccd385af.chunk.js.map": "/static/js/2.ccd385af.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.dccfdf31.chunk.css.map": "/static/css/main.dccfdf31.chunk.css.map",
+    "static/js/2.ccd385af.chunk.js.LICENSE.txt": "/static/js/2.ccd385af.chunk.js.LICENSE.txt",
+    "static/media/PIGS_320x320.8a80fa35.gif": "/static/media/PIGS_320x320.8a80fa35.gif",
+    "static/media/collection.cb517d33.png": "/static/media/collection.cb517d33.png",
+    "static/media/discord.895857a2.svg": "/static/media/discord.895857a2.svg",
+    "static/media/hamburger.012e5771.svg": "/static/media/hamburger.012e5771.svg",
+    "static/media/App.css": "/static/media/roadmap_background.eaaa71ef.png",
+    "static/media/littlepigs_logo.ef3fbadd.svg": "/static/media/littlepigs_logo.ef3fbadd.svg",
+    "static/media/page1.685f0a8b.png": "/static/media/page1.685f0a8b.png",
+    "static/media/page2.50f32780.png": "/static/media/page2.50f32780.png",
+    "static/media/rarities_image.f731c6cd.jpg": "/static/media/rarities_image.f731c6cd.jpg",
+    "static/media/team1.f25a9f91.png": "/static/media/team1.f25a9f91.png",
+    "static/media/team2.bbb58139.png": "/static/media/team2.bbb58139.png",
+    "static/media/team3.2a50591d.png": "/static/media/team3.2a50591d.png",
+    "static/media/team4.f929de95.png": "/static/media/team4.f929de95.png",
+    "static/media/team5.4fbe301a.png": "/static/media/team5.4fbe301a.png",
+    "static/media/twitter.898d9476.svg": "/static/media/twitter.898d9476.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b9132764.js",
+    "static/js/2.ccd385af.chunk.js",
+    "static/css/main.dccfdf31.chunk.css",
+    "static/js/main.c147a8ca.chunk.js"
+  ]
+}
